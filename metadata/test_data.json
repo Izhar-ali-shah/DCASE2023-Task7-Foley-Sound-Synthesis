@@ -1,0 +1,2802 @@
+[
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/dog_bark/001.wav",
+    "text": "DogBark"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/dog_bark/002.wav",
+    "text": "DogBark"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/dog_bark/003.wav",
+    "text": "DogBark"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/dog_bark/004.wav",
+    "text": "DogBark"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/dog_bark/005.wav",
+    "text": "DogBark"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/dog_bark/006.wav",
+    "text": "DogBark"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/dog_bark/007.wav",
+    "text": "DogBark"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/dog_bark/008.wav",
+    "text": "DogBark"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/dog_bark/009.wav",
+    "text": "DogBark"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/dog_bark/010.wav",
+    "text": "DogBark"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/dog_bark/011.wav",
+    "text": "DogBark"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/dog_bark/012.wav",
+    "text": "DogBark"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/dog_bark/013.wav",
+    "text": "DogBark"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/dog_bark/014.wav",
+    "text": "DogBark"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/dog_bark/015.wav",
+    "text": "DogBark"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/dog_bark/016.wav",
+    "text": "DogBark"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/dog_bark/017.wav",
+    "text": "DogBark"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/dog_bark/018.wav",
+    "text": "DogBark"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/dog_bark/019.wav",
+    "text": "DogBark"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/dog_bark/020.wav",
+    "text": "DogBark"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/dog_bark/021.wav",
+    "text": "DogBark"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/dog_bark/022.wav",
+    "text": "DogBark"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/dog_bark/023.wav",
+    "text": "DogBark"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/dog_bark/024.wav",
+    "text": "DogBark"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/dog_bark/025.wav",
+    "text": "DogBark"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/dog_bark/026.wav",
+    "text": "DogBark"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/dog_bark/027.wav",
+    "text": "DogBark"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/dog_bark/028.wav",
+    "text": "DogBark"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/dog_bark/029.wav",
+    "text": "DogBark"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/dog_bark/030.wav",
+    "text": "DogBark"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/dog_bark/031.wav",
+    "text": "DogBark"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/dog_bark/032.wav",
+    "text": "DogBark"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/dog_bark/033.wav",
+    "text": "DogBark"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/dog_bark/034.wav",
+    "text": "DogBark"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/dog_bark/035.wav",
+    "text": "DogBark"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/dog_bark/036.wav",
+    "text": "DogBark"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/dog_bark/037.wav",
+    "text": "DogBark"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/dog_bark/038.wav",
+    "text": "DogBark"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/dog_bark/039.wav",
+    "text": "DogBark"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/dog_bark/040.wav",
+    "text": "DogBark"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/dog_bark/041.wav",
+    "text": "DogBark"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/dog_bark/042.wav",
+    "text": "DogBark"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/dog_bark/043.wav",
+    "text": "DogBark"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/dog_bark/044.wav",
+    "text": "DogBark"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/dog_bark/045.wav",
+    "text": "DogBark"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/dog_bark/046.wav",
+    "text": "DogBark"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/dog_bark/047.wav",
+    "text": "DogBark"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/dog_bark/048.wav",
+    "text": "DogBark"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/dog_bark/049.wav",
+    "text": "DogBark"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/dog_bark/050.wav",
+    "text": "DogBark"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/dog_bark/051.wav",
+    "text": "DogBark"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/dog_bark/052.wav",
+    "text": "DogBark"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/dog_bark/053.wav",
+    "text": "DogBark"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/dog_bark/054.wav",
+    "text": "DogBark"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/dog_bark/055.wav",
+    "text": "DogBark"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/dog_bark/056.wav",
+    "text": "DogBark"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/dog_bark/057.wav",
+    "text": "DogBark"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/dog_bark/058.wav",
+    "text": "DogBark"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/dog_bark/059.wav",
+    "text": "DogBark"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/dog_bark/060.wav",
+    "text": "DogBark"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/dog_bark/061.wav",
+    "text": "DogBark"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/dog_bark/062.wav",
+    "text": "DogBark"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/dog_bark/063.wav",
+    "text": "DogBark"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/dog_bark/064.wav",
+    "text": "DogBark"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/dog_bark/065.wav",
+    "text": "DogBark"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/dog_bark/066.wav",
+    "text": "DogBark"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/dog_bark/067.wav",
+    "text": "DogBark"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/dog_bark/068.wav",
+    "text": "DogBark"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/dog_bark/069.wav",
+    "text": "DogBark"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/dog_bark/070.wav",
+    "text": "DogBark"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/dog_bark/071.wav",
+    "text": "DogBark"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/dog_bark/072.wav",
+    "text": "DogBark"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/dog_bark/073.wav",
+    "text": "DogBark"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/dog_bark/074.wav",
+    "text": "DogBark"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/dog_bark/075.wav",
+    "text": "DogBark"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/dog_bark/076.wav",
+    "text": "DogBark"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/dog_bark/077.wav",
+    "text": "DogBark"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/dog_bark/078.wav",
+    "text": "DogBark"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/dog_bark/079.wav",
+    "text": "DogBark"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/dog_bark/080.wav",
+    "text": "DogBark"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/dog_bark/081.wav",
+    "text": "DogBark"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/dog_bark/082.wav",
+    "text": "DogBark"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/dog_bark/083.wav",
+    "text": "DogBark"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/dog_bark/084.wav",
+    "text": "DogBark"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/dog_bark/085.wav",
+    "text": "DogBark"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/dog_bark/086.wav",
+    "text": "DogBark"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/dog_bark/087.wav",
+    "text": "DogBark"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/dog_bark/088.wav",
+    "text": "DogBark"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/dog_bark/089.wav",
+    "text": "DogBark"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/dog_bark/090.wav",
+    "text": "DogBark"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/dog_bark/091.wav",
+    "text": "DogBark"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/dog_bark/092.wav",
+    "text": "DogBark"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/dog_bark/093.wav",
+    "text": "DogBark"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/dog_bark/094.wav",
+    "text": "DogBark"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/dog_bark/095.wav",
+    "text": "DogBark"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/dog_bark/096.wav",
+    "text": "DogBark"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/dog_bark/097.wav",
+    "text": "DogBark"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/dog_bark/098.wav",
+    "text": "DogBark"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/dog_bark/099.wav",
+    "text": "DogBark"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/dog_bark/100.wav",
+    "text": "DogBark"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/footstep/001.wav",
+    "text": "Footstep"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/footstep/002.wav",
+    "text": "Footstep"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/footstep/003.wav",
+    "text": "Footstep"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/footstep/004.wav",
+    "text": "Footstep"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/footstep/005.wav",
+    "text": "Footstep"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/footstep/006.wav",
+    "text": "Footstep"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/footstep/007.wav",
+    "text": "Footstep"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/footstep/008.wav",
+    "text": "Footstep"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/footstep/009.wav",
+    "text": "Footstep"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/footstep/010.wav",
+    "text": "Footstep"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/footstep/011.wav",
+    "text": "Footstep"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/footstep/012.wav",
+    "text": "Footstep"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/footstep/013.wav",
+    "text": "Footstep"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/footstep/014.wav",
+    "text": "Footstep"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/footstep/015.wav",
+    "text": "Footstep"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/footstep/016.wav",
+    "text": "Footstep"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/footstep/017.wav",
+    "text": "Footstep"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/footstep/018.wav",
+    "text": "Footstep"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/footstep/019.wav",
+    "text": "Footstep"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/footstep/020.wav",
+    "text": "Footstep"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/footstep/021.wav",
+    "text": "Footstep"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/footstep/022.wav",
+    "text": "Footstep"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/footstep/023.wav",
+    "text": "Footstep"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/footstep/024.wav",
+    "text": "Footstep"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/footstep/025.wav",
+    "text": "Footstep"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/footstep/026.wav",
+    "text": "Footstep"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/footstep/027.wav",
+    "text": "Footstep"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/footstep/028.wav",
+    "text": "Footstep"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/footstep/029.wav",
+    "text": "Footstep"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/footstep/030.wav",
+    "text": "Footstep"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/footstep/031.wav",
+    "text": "Footstep"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/footstep/032.wav",
+    "text": "Footstep"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/footstep/033.wav",
+    "text": "Footstep"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/footstep/034.wav",
+    "text": "Footstep"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/footstep/035.wav",
+    "text": "Footstep"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/footstep/036.wav",
+    "text": "Footstep"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/footstep/037.wav",
+    "text": "Footstep"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/footstep/038.wav",
+    "text": "Footstep"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/footstep/039.wav",
+    "text": "Footstep"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/footstep/040.wav",
+    "text": "Footstep"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/footstep/041.wav",
+    "text": "Footstep"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/footstep/042.wav",
+    "text": "Footstep"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/footstep/043.wav",
+    "text": "Footstep"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/footstep/044.wav",
+    "text": "Footstep"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/footstep/045.wav",
+    "text": "Footstep"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/footstep/046.wav",
+    "text": "Footstep"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/footstep/047.wav",
+    "text": "Footstep"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/footstep/048.wav",
+    "text": "Footstep"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/footstep/049.wav",
+    "text": "Footstep"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/footstep/050.wav",
+    "text": "Footstep"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/footstep/051.wav",
+    "text": "Footstep"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/footstep/052.wav",
+    "text": "Footstep"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/footstep/053.wav",
+    "text": "Footstep"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/footstep/054.wav",
+    "text": "Footstep"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/footstep/055.wav",
+    "text": "Footstep"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/footstep/056.wav",
+    "text": "Footstep"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/footstep/057.wav",
+    "text": "Footstep"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/footstep/058.wav",
+    "text": "Footstep"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/footstep/059.wav",
+    "text": "Footstep"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/footstep/060.wav",
+    "text": "Footstep"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/footstep/061.wav",
+    "text": "Footstep"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/footstep/062.wav",
+    "text": "Footstep"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/footstep/063.wav",
+    "text": "Footstep"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/footstep/064.wav",
+    "text": "Footstep"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/footstep/065.wav",
+    "text": "Footstep"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/footstep/066.wav",
+    "text": "Footstep"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/footstep/067.wav",
+    "text": "Footstep"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/footstep/068.wav",
+    "text": "Footstep"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/footstep/069.wav",
+    "text": "Footstep"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/footstep/070.wav",
+    "text": "Footstep"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/footstep/071.wav",
+    "text": "Footstep"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/footstep/072.wav",
+    "text": "Footstep"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/footstep/073.wav",
+    "text": "Footstep"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/footstep/074.wav",
+    "text": "Footstep"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/footstep/075.wav",
+    "text": "Footstep"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/footstep/076.wav",
+    "text": "Footstep"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/footstep/077.wav",
+    "text": "Footstep"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/footstep/078.wav",
+    "text": "Footstep"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/footstep/079.wav",
+    "text": "Footstep"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/footstep/080.wav",
+    "text": "Footstep"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/footstep/081.wav",
+    "text": "Footstep"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/footstep/082.wav",
+    "text": "Footstep"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/footstep/083.wav",
+    "text": "Footstep"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/footstep/084.wav",
+    "text": "Footstep"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/footstep/085.wav",
+    "text": "Footstep"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/footstep/086.wav",
+    "text": "Footstep"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/footstep/087.wav",
+    "text": "Footstep"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/footstep/088.wav",
+    "text": "Footstep"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/footstep/089.wav",
+    "text": "Footstep"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/footstep/090.wav",
+    "text": "Footstep"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/footstep/091.wav",
+    "text": "Footstep"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/footstep/092.wav",
+    "text": "Footstep"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/footstep/093.wav",
+    "text": "Footstep"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/footstep/094.wav",
+    "text": "Footstep"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/footstep/095.wav",
+    "text": "Footstep"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/footstep/096.wav",
+    "text": "Footstep"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/footstep/097.wav",
+    "text": "Footstep"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/footstep/098.wav",
+    "text": "Footstep"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/footstep/099.wav",
+    "text": "Footstep"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/footstep/100.wav",
+    "text": "Footstep"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/gunshot/001.wav",
+    "text": "GunShot"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/gunshot/002.wav",
+    "text": "GunShot"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/gunshot/003.wav",
+    "text": "GunShot"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/gunshot/004.wav",
+    "text": "GunShot"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/gunshot/005.wav",
+    "text": "GunShot"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/gunshot/006.wav",
+    "text": "GunShot"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/gunshot/007.wav",
+    "text": "GunShot"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/gunshot/008.wav",
+    "text": "GunShot"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/gunshot/009.wav",
+    "text": "GunShot"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/gunshot/010.wav",
+    "text": "GunShot"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/gunshot/011.wav",
+    "text": "GunShot"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/gunshot/012.wav",
+    "text": "GunShot"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/gunshot/013.wav",
+    "text": "GunShot"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/gunshot/014.wav",
+    "text": "GunShot"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/gunshot/015.wav",
+    "text": "GunShot"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/gunshot/016.wav",
+    "text": "GunShot"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/gunshot/017.wav",
+    "text": "GunShot"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/gunshot/018.wav",
+    "text": "GunShot"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/gunshot/019.wav",
+    "text": "GunShot"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/gunshot/020.wav",
+    "text": "GunShot"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/gunshot/021.wav",
+    "text": "GunShot"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/gunshot/022.wav",
+    "text": "GunShot"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/gunshot/023.wav",
+    "text": "GunShot"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/gunshot/024.wav",
+    "text": "GunShot"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/gunshot/025.wav",
+    "text": "GunShot"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/gunshot/026.wav",
+    "text": "GunShot"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/gunshot/027.wav",
+    "text": "GunShot"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/gunshot/028.wav",
+    "text": "GunShot"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/gunshot/029.wav",
+    "text": "GunShot"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/gunshot/030.wav",
+    "text": "GunShot"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/gunshot/031.wav",
+    "text": "GunShot"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/gunshot/032.wav",
+    "text": "GunShot"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/gunshot/033.wav",
+    "text": "GunShot"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/gunshot/034.wav",
+    "text": "GunShot"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/gunshot/035.wav",
+    "text": "GunShot"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/gunshot/036.wav",
+    "text": "GunShot"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/gunshot/037.wav",
+    "text": "GunShot"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/gunshot/038.wav",
+    "text": "GunShot"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/gunshot/039.wav",
+    "text": "GunShot"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/gunshot/040.wav",
+    "text": "GunShot"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/gunshot/041.wav",
+    "text": "GunShot"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/gunshot/042.wav",
+    "text": "GunShot"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/gunshot/043.wav",
+    "text": "GunShot"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/gunshot/044.wav",
+    "text": "GunShot"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/gunshot/045.wav",
+    "text": "GunShot"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/gunshot/046.wav",
+    "text": "GunShot"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/gunshot/047.wav",
+    "text": "GunShot"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/gunshot/048.wav",
+    "text": "GunShot"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/gunshot/049.wav",
+    "text": "GunShot"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/gunshot/050.wav",
+    "text": "GunShot"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/gunshot/051.wav",
+    "text": "GunShot"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/gunshot/052.wav",
+    "text": "GunShot"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/gunshot/053.wav",
+    "text": "GunShot"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/gunshot/054.wav",
+    "text": "GunShot"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/gunshot/055.wav",
+    "text": "GunShot"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/gunshot/056.wav",
+    "text": "GunShot"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/gunshot/057.wav",
+    "text": "GunShot"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/gunshot/058.wav",
+    "text": "GunShot"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/gunshot/059.wav",
+    "text": "GunShot"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/gunshot/060.wav",
+    "text": "GunShot"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/gunshot/061.wav",
+    "text": "GunShot"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/gunshot/062.wav",
+    "text": "GunShot"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/gunshot/063.wav",
+    "text": "GunShot"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/gunshot/064.wav",
+    "text": "GunShot"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/gunshot/065.wav",
+    "text": "GunShot"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/gunshot/066.wav",
+    "text": "GunShot"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/gunshot/067.wav",
+    "text": "GunShot"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/gunshot/068.wav",
+    "text": "GunShot"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/gunshot/069.wav",
+    "text": "GunShot"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/gunshot/070.wav",
+    "text": "GunShot"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/gunshot/071.wav",
+    "text": "GunShot"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/gunshot/072.wav",
+    "text": "GunShot"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/gunshot/073.wav",
+    "text": "GunShot"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/gunshot/074.wav",
+    "text": "GunShot"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/gunshot/075.wav",
+    "text": "GunShot"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/gunshot/076.wav",
+    "text": "GunShot"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/gunshot/077.wav",
+    "text": "GunShot"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/gunshot/078.wav",
+    "text": "GunShot"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/gunshot/079.wav",
+    "text": "GunShot"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/gunshot/080.wav",
+    "text": "GunShot"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/gunshot/081.wav",
+    "text": "GunShot"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/gunshot/082.wav",
+    "text": "GunShot"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/gunshot/083.wav",
+    "text": "GunShot"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/gunshot/084.wav",
+    "text": "GunShot"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/gunshot/085.wav",
+    "text": "GunShot"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/gunshot/086.wav",
+    "text": "GunShot"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/gunshot/087.wav",
+    "text": "GunShot"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/gunshot/088.wav",
+    "text": "GunShot"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/gunshot/089.wav",
+    "text": "GunShot"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/gunshot/090.wav",
+    "text": "GunShot"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/gunshot/091.wav",
+    "text": "GunShot"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/gunshot/092.wav",
+    "text": "GunShot"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/gunshot/093.wav",
+    "text": "GunShot"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/gunshot/094.wav",
+    "text": "GunShot"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/gunshot/095.wav",
+    "text": "GunShot"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/gunshot/096.wav",
+    "text": "GunShot"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/gunshot/097.wav",
+    "text": "GunShot"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/gunshot/098.wav",
+    "text": "GunShot"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/gunshot/099.wav",
+    "text": "GunShot"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/gunshot/100.wav",
+    "text": "GunShot"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/keyboard/001.wav",
+    "text": "Keyboard"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/keyboard/002.wav",
+    "text": "Keyboard"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/keyboard/003.wav",
+    "text": "Keyboard"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/keyboard/004.wav",
+    "text": "Keyboard"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/keyboard/005.wav",
+    "text": "Keyboard"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/keyboard/006.wav",
+    "text": "Keyboard"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/keyboard/007.wav",
+    "text": "Keyboard"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/keyboard/008.wav",
+    "text": "Keyboard"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/keyboard/009.wav",
+    "text": "Keyboard"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/keyboard/010.wav",
+    "text": "Keyboard"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/keyboard/011.wav",
+    "text": "Keyboard"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/keyboard/012.wav",
+    "text": "Keyboard"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/keyboard/013.wav",
+    "text": "Keyboard"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/keyboard/014.wav",
+    "text": "Keyboard"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/keyboard/015.wav",
+    "text": "Keyboard"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/keyboard/016.wav",
+    "text": "Keyboard"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/keyboard/017.wav",
+    "text": "Keyboard"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/keyboard/018.wav",
+    "text": "Keyboard"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/keyboard/019.wav",
+    "text": "Keyboard"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/keyboard/020.wav",
+    "text": "Keyboard"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/keyboard/021.wav",
+    "text": "Keyboard"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/keyboard/022.wav",
+    "text": "Keyboard"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/keyboard/023.wav",
+    "text": "Keyboard"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/keyboard/024.wav",
+    "text": "Keyboard"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/keyboard/025.wav",
+    "text": "Keyboard"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/keyboard/026.wav",
+    "text": "Keyboard"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/keyboard/027.wav",
+    "text": "Keyboard"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/keyboard/028.wav",
+    "text": "Keyboard"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/keyboard/029.wav",
+    "text": "Keyboard"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/keyboard/030.wav",
+    "text": "Keyboard"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/keyboard/031.wav",
+    "text": "Keyboard"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/keyboard/032.wav",
+    "text": "Keyboard"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/keyboard/033.wav",
+    "text": "Keyboard"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/keyboard/034.wav",
+    "text": "Keyboard"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/keyboard/035.wav",
+    "text": "Keyboard"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/keyboard/036.wav",
+    "text": "Keyboard"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/keyboard/037.wav",
+    "text": "Keyboard"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/keyboard/038.wav",
+    "text": "Keyboard"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/keyboard/039.wav",
+    "text": "Keyboard"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/keyboard/040.wav",
+    "text": "Keyboard"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/keyboard/041.wav",
+    "text": "Keyboard"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/keyboard/042.wav",
+    "text": "Keyboard"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/keyboard/043.wav",
+    "text": "Keyboard"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/keyboard/044.wav",
+    "text": "Keyboard"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/keyboard/045.wav",
+    "text": "Keyboard"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/keyboard/046.wav",
+    "text": "Keyboard"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/keyboard/047.wav",
+    "text": "Keyboard"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/keyboard/048.wav",
+    "text": "Keyboard"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/keyboard/049.wav",
+    "text": "Keyboard"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/keyboard/050.wav",
+    "text": "Keyboard"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/keyboard/051.wav",
+    "text": "Keyboard"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/keyboard/052.wav",
+    "text": "Keyboard"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/keyboard/053.wav",
+    "text": "Keyboard"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/keyboard/054.wav",
+    "text": "Keyboard"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/keyboard/055.wav",
+    "text": "Keyboard"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/keyboard/056.wav",
+    "text": "Keyboard"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/keyboard/057.wav",
+    "text": "Keyboard"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/keyboard/058.wav",
+    "text": "Keyboard"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/keyboard/059.wav",
+    "text": "Keyboard"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/keyboard/060.wav",
+    "text": "Keyboard"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/keyboard/061.wav",
+    "text": "Keyboard"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/keyboard/062.wav",
+    "text": "Keyboard"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/keyboard/063.wav",
+    "text": "Keyboard"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/keyboard/064.wav",
+    "text": "Keyboard"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/keyboard/065.wav",
+    "text": "Keyboard"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/keyboard/066.wav",
+    "text": "Keyboard"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/keyboard/067.wav",
+    "text": "Keyboard"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/keyboard/068.wav",
+    "text": "Keyboard"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/keyboard/069.wav",
+    "text": "Keyboard"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/keyboard/070.wav",
+    "text": "Keyboard"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/keyboard/071.wav",
+    "text": "Keyboard"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/keyboard/072.wav",
+    "text": "Keyboard"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/keyboard/073.wav",
+    "text": "Keyboard"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/keyboard/074.wav",
+    "text": "Keyboard"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/keyboard/075.wav",
+    "text": "Keyboard"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/keyboard/076.wav",
+    "text": "Keyboard"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/keyboard/077.wav",
+    "text": "Keyboard"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/keyboard/078.wav",
+    "text": "Keyboard"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/keyboard/079.wav",
+    "text": "Keyboard"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/keyboard/080.wav",
+    "text": "Keyboard"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/keyboard/081.wav",
+    "text": "Keyboard"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/keyboard/082.wav",
+    "text": "Keyboard"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/keyboard/083.wav",
+    "text": "Keyboard"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/keyboard/084.wav",
+    "text": "Keyboard"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/keyboard/085.wav",
+    "text": "Keyboard"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/keyboard/086.wav",
+    "text": "Keyboard"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/keyboard/087.wav",
+    "text": "Keyboard"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/keyboard/088.wav",
+    "text": "Keyboard"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/keyboard/089.wav",
+    "text": "Keyboard"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/keyboard/090.wav",
+    "text": "Keyboard"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/keyboard/091.wav",
+    "text": "Keyboard"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/keyboard/092.wav",
+    "text": "Keyboard"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/keyboard/093.wav",
+    "text": "Keyboard"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/keyboard/094.wav",
+    "text": "Keyboard"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/keyboard/095.wav",
+    "text": "Keyboard"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/keyboard/096.wav",
+    "text": "Keyboard"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/keyboard/097.wav",
+    "text": "Keyboard"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/keyboard/098.wav",
+    "text": "Keyboard"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/keyboard/099.wav",
+    "text": "Keyboard"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/keyboard/100.wav",
+    "text": "Keyboard"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/moving_motor_vehicle/001.wav",
+    "text": "MovingMotorVehicle"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/moving_motor_vehicle/002.wav",
+    "text": "MovingMotorVehicle"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/moving_motor_vehicle/003.wav",
+    "text": "MovingMotorVehicle"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/moving_motor_vehicle/004.wav",
+    "text": "MovingMotorVehicle"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/moving_motor_vehicle/005.wav",
+    "text": "MovingMotorVehicle"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/moving_motor_vehicle/006.wav",
+    "text": "MovingMotorVehicle"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/moving_motor_vehicle/007.wav",
+    "text": "MovingMotorVehicle"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/moving_motor_vehicle/008.wav",
+    "text": "MovingMotorVehicle"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/moving_motor_vehicle/009.wav",
+    "text": "MovingMotorVehicle"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/moving_motor_vehicle/010.wav",
+    "text": "MovingMotorVehicle"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/moving_motor_vehicle/011.wav",
+    "text": "MovingMotorVehicle"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/moving_motor_vehicle/012.wav",
+    "text": "MovingMotorVehicle"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/moving_motor_vehicle/013.wav",
+    "text": "MovingMotorVehicle"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/moving_motor_vehicle/014.wav",
+    "text": "MovingMotorVehicle"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/moving_motor_vehicle/015.wav",
+    "text": "MovingMotorVehicle"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/moving_motor_vehicle/016.wav",
+    "text": "MovingMotorVehicle"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/moving_motor_vehicle/017.wav",
+    "text": "MovingMotorVehicle"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/moving_motor_vehicle/018.wav",
+    "text": "MovingMotorVehicle"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/moving_motor_vehicle/019.wav",
+    "text": "MovingMotorVehicle"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/moving_motor_vehicle/020.wav",
+    "text": "MovingMotorVehicle"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/moving_motor_vehicle/021.wav",
+    "text": "MovingMotorVehicle"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/moving_motor_vehicle/022.wav",
+    "text": "MovingMotorVehicle"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/moving_motor_vehicle/023.wav",
+    "text": "MovingMotorVehicle"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/moving_motor_vehicle/024.wav",
+    "text": "MovingMotorVehicle"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/moving_motor_vehicle/025.wav",
+    "text": "MovingMotorVehicle"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/moving_motor_vehicle/026.wav",
+    "text": "MovingMotorVehicle"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/moving_motor_vehicle/027.wav",
+    "text": "MovingMotorVehicle"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/moving_motor_vehicle/028.wav",
+    "text": "MovingMotorVehicle"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/moving_motor_vehicle/029.wav",
+    "text": "MovingMotorVehicle"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/moving_motor_vehicle/030.wav",
+    "text": "MovingMotorVehicle"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/moving_motor_vehicle/031.wav",
+    "text": "MovingMotorVehicle"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/moving_motor_vehicle/032.wav",
+    "text": "MovingMotorVehicle"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/moving_motor_vehicle/033.wav",
+    "text": "MovingMotorVehicle"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/moving_motor_vehicle/034.wav",
+    "text": "MovingMotorVehicle"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/moving_motor_vehicle/035.wav",
+    "text": "MovingMotorVehicle"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/moving_motor_vehicle/036.wav",
+    "text": "MovingMotorVehicle"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/moving_motor_vehicle/037.wav",
+    "text": "MovingMotorVehicle"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/moving_motor_vehicle/038.wav",
+    "text": "MovingMotorVehicle"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/moving_motor_vehicle/039.wav",
+    "text": "MovingMotorVehicle"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/moving_motor_vehicle/040.wav",
+    "text": "MovingMotorVehicle"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/moving_motor_vehicle/041.wav",
+    "text": "MovingMotorVehicle"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/moving_motor_vehicle/042.wav",
+    "text": "MovingMotorVehicle"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/moving_motor_vehicle/043.wav",
+    "text": "MovingMotorVehicle"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/moving_motor_vehicle/044.wav",
+    "text": "MovingMotorVehicle"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/moving_motor_vehicle/045.wav",
+    "text": "MovingMotorVehicle"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/moving_motor_vehicle/046.wav",
+    "text": "MovingMotorVehicle"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/moving_motor_vehicle/047.wav",
+    "text": "MovingMotorVehicle"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/moving_motor_vehicle/048.wav",
+    "text": "MovingMotorVehicle"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/moving_motor_vehicle/049.wav",
+    "text": "MovingMotorVehicle"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/moving_motor_vehicle/050.wav",
+    "text": "MovingMotorVehicle"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/moving_motor_vehicle/051.wav",
+    "text": "MovingMotorVehicle"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/moving_motor_vehicle/052.wav",
+    "text": "MovingMotorVehicle"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/moving_motor_vehicle/053.wav",
+    "text": "MovingMotorVehicle"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/moving_motor_vehicle/054.wav",
+    "text": "MovingMotorVehicle"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/moving_motor_vehicle/055.wav",
+    "text": "MovingMotorVehicle"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/moving_motor_vehicle/056.wav",
+    "text": "MovingMotorVehicle"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/moving_motor_vehicle/057.wav",
+    "text": "MovingMotorVehicle"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/moving_motor_vehicle/058.wav",
+    "text": "MovingMotorVehicle"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/moving_motor_vehicle/059.wav",
+    "text": "MovingMotorVehicle"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/moving_motor_vehicle/060.wav",
+    "text": "MovingMotorVehicle"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/moving_motor_vehicle/061.wav",
+    "text": "MovingMotorVehicle"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/moving_motor_vehicle/062.wav",
+    "text": "MovingMotorVehicle"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/moving_motor_vehicle/063.wav",
+    "text": "MovingMotorVehicle"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/moving_motor_vehicle/064.wav",
+    "text": "MovingMotorVehicle"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/moving_motor_vehicle/065.wav",
+    "text": "MovingMotorVehicle"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/moving_motor_vehicle/066.wav",
+    "text": "MovingMotorVehicle"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/moving_motor_vehicle/067.wav",
+    "text": "MovingMotorVehicle"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/moving_motor_vehicle/068.wav",
+    "text": "MovingMotorVehicle"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/moving_motor_vehicle/069.wav",
+    "text": "MovingMotorVehicle"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/moving_motor_vehicle/070.wav",
+    "text": "MovingMotorVehicle"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/moving_motor_vehicle/071.wav",
+    "text": "MovingMotorVehicle"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/moving_motor_vehicle/072.wav",
+    "text": "MovingMotorVehicle"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/moving_motor_vehicle/073.wav",
+    "text": "MovingMotorVehicle"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/moving_motor_vehicle/074.wav",
+    "text": "MovingMotorVehicle"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/moving_motor_vehicle/075.wav",
+    "text": "MovingMotorVehicle"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/moving_motor_vehicle/076.wav",
+    "text": "MovingMotorVehicle"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/moving_motor_vehicle/077.wav",
+    "text": "MovingMotorVehicle"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/moving_motor_vehicle/078.wav",
+    "text": "MovingMotorVehicle"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/moving_motor_vehicle/079.wav",
+    "text": "MovingMotorVehicle"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/moving_motor_vehicle/080.wav",
+    "text": "MovingMotorVehicle"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/moving_motor_vehicle/081.wav",
+    "text": "MovingMotorVehicle"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/moving_motor_vehicle/082.wav",
+    "text": "MovingMotorVehicle"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/moving_motor_vehicle/083.wav",
+    "text": "MovingMotorVehicle"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/moving_motor_vehicle/084.wav",
+    "text": "MovingMotorVehicle"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/moving_motor_vehicle/085.wav",
+    "text": "MovingMotorVehicle"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/moving_motor_vehicle/086.wav",
+    "text": "MovingMotorVehicle"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/moving_motor_vehicle/087.wav",
+    "text": "MovingMotorVehicle"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/moving_motor_vehicle/088.wav",
+    "text": "MovingMotorVehicle"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/moving_motor_vehicle/089.wav",
+    "text": "MovingMotorVehicle"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/moving_motor_vehicle/090.wav",
+    "text": "MovingMotorVehicle"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/moving_motor_vehicle/091.wav",
+    "text": "MovingMotorVehicle"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/moving_motor_vehicle/092.wav",
+    "text": "MovingMotorVehicle"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/moving_motor_vehicle/093.wav",
+    "text": "MovingMotorVehicle"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/moving_motor_vehicle/094.wav",
+    "text": "MovingMotorVehicle"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/moving_motor_vehicle/095.wav",
+    "text": "MovingMotorVehicle"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/moving_motor_vehicle/096.wav",
+    "text": "MovingMotorVehicle"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/moving_motor_vehicle/097.wav",
+    "text": "MovingMotorVehicle"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/moving_motor_vehicle/098.wav",
+    "text": "MovingMotorVehicle"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/moving_motor_vehicle/099.wav",
+    "text": "MovingMotorVehicle"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/moving_motor_vehicle/100.wav",
+    "text": "MovingMotorVehicle"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/rain/001.wav",
+    "text": "Rain"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/rain/002.wav",
+    "text": "Rain"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/rain/003.wav",
+    "text": "Rain"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/rain/004.wav",
+    "text": "Rain"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/rain/005.wav",
+    "text": "Rain"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/rain/006.wav",
+    "text": "Rain"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/rain/007.wav",
+    "text": "Rain"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/rain/008.wav",
+    "text": "Rain"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/rain/009.wav",
+    "text": "Rain"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/rain/010.wav",
+    "text": "Rain"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/rain/011.wav",
+    "text": "Rain"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/rain/012.wav",
+    "text": "Rain"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/rain/013.wav",
+    "text": "Rain"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/rain/014.wav",
+    "text": "Rain"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/rain/015.wav",
+    "text": "Rain"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/rain/016.wav",
+    "text": "Rain"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/rain/017.wav",
+    "text": "Rain"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/rain/018.wav",
+    "text": "Rain"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/rain/019.wav",
+    "text": "Rain"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/rain/020.wav",
+    "text": "Rain"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/rain/021.wav",
+    "text": "Rain"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/rain/022.wav",
+    "text": "Rain"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/rain/023.wav",
+    "text": "Rain"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/rain/024.wav",
+    "text": "Rain"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/rain/025.wav",
+    "text": "Rain"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/rain/026.wav",
+    "text": "Rain"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/rain/027.wav",
+    "text": "Rain"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/rain/028.wav",
+    "text": "Rain"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/rain/029.wav",
+    "text": "Rain"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/rain/030.wav",
+    "text": "Rain"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/rain/031.wav",
+    "text": "Rain"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/rain/032.wav",
+    "text": "Rain"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/rain/033.wav",
+    "text": "Rain"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/rain/034.wav",
+    "text": "Rain"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/rain/035.wav",
+    "text": "Rain"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/rain/036.wav",
+    "text": "Rain"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/rain/037.wav",
+    "text": "Rain"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/rain/038.wav",
+    "text": "Rain"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/rain/039.wav",
+    "text": "Rain"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/rain/040.wav",
+    "text": "Rain"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/rain/041.wav",
+    "text": "Rain"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/rain/042.wav",
+    "text": "Rain"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/rain/043.wav",
+    "text": "Rain"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/rain/044.wav",
+    "text": "Rain"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/rain/045.wav",
+    "text": "Rain"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/rain/046.wav",
+    "text": "Rain"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/rain/047.wav",
+    "text": "Rain"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/rain/048.wav",
+    "text": "Rain"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/rain/049.wav",
+    "text": "Rain"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/rain/050.wav",
+    "text": "Rain"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/rain/051.wav",
+    "text": "Rain"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/rain/052.wav",
+    "text": "Rain"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/rain/053.wav",
+    "text": "Rain"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/rain/054.wav",
+    "text": "Rain"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/rain/055.wav",
+    "text": "Rain"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/rain/056.wav",
+    "text": "Rain"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/rain/057.wav",
+    "text": "Rain"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/rain/058.wav",
+    "text": "Rain"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/rain/059.wav",
+    "text": "Rain"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/rain/060.wav",
+    "text": "Rain"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/rain/061.wav",
+    "text": "Rain"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/rain/062.wav",
+    "text": "Rain"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/rain/063.wav",
+    "text": "Rain"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/rain/064.wav",
+    "text": "Rain"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/rain/065.wav",
+    "text": "Rain"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/rain/066.wav",
+    "text": "Rain"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/rain/067.wav",
+    "text": "Rain"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/rain/068.wav",
+    "text": "Rain"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/rain/069.wav",
+    "text": "Rain"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/rain/070.wav",
+    "text": "Rain"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/rain/071.wav",
+    "text": "Rain"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/rain/072.wav",
+    "text": "Rain"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/rain/073.wav",
+    "text": "Rain"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/rain/074.wav",
+    "text": "Rain"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/rain/075.wav",
+    "text": "Rain"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/rain/076.wav",
+    "text": "Rain"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/rain/077.wav",
+    "text": "Rain"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/rain/078.wav",
+    "text": "Rain"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/rain/079.wav",
+    "text": "Rain"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/rain/080.wav",
+    "text": "Rain"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/rain/081.wav",
+    "text": "Rain"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/rain/082.wav",
+    "text": "Rain"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/rain/083.wav",
+    "text": "Rain"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/rain/084.wav",
+    "text": "Rain"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/rain/085.wav",
+    "text": "Rain"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/rain/086.wav",
+    "text": "Rain"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/rain/087.wav",
+    "text": "Rain"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/rain/088.wav",
+    "text": "Rain"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/rain/089.wav",
+    "text": "Rain"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/rain/090.wav",
+    "text": "Rain"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/rain/091.wav",
+    "text": "Rain"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/rain/092.wav",
+    "text": "Rain"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/rain/093.wav",
+    "text": "Rain"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/rain/094.wav",
+    "text": "Rain"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/rain/095.wav",
+    "text": "Rain"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/rain/096.wav",
+    "text": "Rain"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/rain/097.wav",
+    "text": "Rain"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/rain/098.wav",
+    "text": "Rain"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/rain/099.wav",
+    "text": "Rain"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/rain/100.wav",
+    "text": "Rain"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/sneeze_cough/001.wav",
+    "text": "Sneeze"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/sneeze_cough/002.wav",
+    "text": "Sneeze"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/sneeze_cough/003.wav",
+    "text": "Sneeze"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/sneeze_cough/004.wav",
+    "text": "Sneeze"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/sneeze_cough/005.wav",
+    "text": "Sneeze"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/sneeze_cough/006.wav",
+    "text": "Sneeze"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/sneeze_cough/007.wav",
+    "text": "Sneeze"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/sneeze_cough/008.wav",
+    "text": "Sneeze"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/sneeze_cough/009.wav",
+    "text": "Sneeze"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/sneeze_cough/010.wav",
+    "text": "Sneeze"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/sneeze_cough/011.wav",
+    "text": "Sneeze"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/sneeze_cough/012.wav",
+    "text": "Sneeze"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/sneeze_cough/013.wav",
+    "text": "Sneeze"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/sneeze_cough/014.wav",
+    "text": "Sneeze"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/sneeze_cough/015.wav",
+    "text": "Sneeze"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/sneeze_cough/016.wav",
+    "text": "Sneeze"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/sneeze_cough/017.wav",
+    "text": "Sneeze"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/sneeze_cough/018.wav",
+    "text": "Sneeze"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/sneeze_cough/019.wav",
+    "text": "Sneeze"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/sneeze_cough/020.wav",
+    "text": "Sneeze"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/sneeze_cough/021.wav",
+    "text": "Sneeze"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/sneeze_cough/022.wav",
+    "text": "Sneeze"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/sneeze_cough/023.wav",
+    "text": "Sneeze"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/sneeze_cough/024.wav",
+    "text": "Sneeze"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/sneeze_cough/025.wav",
+    "text": "Sneeze"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/sneeze_cough/026.wav",
+    "text": "Sneeze"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/sneeze_cough/027.wav",
+    "text": "Sneeze"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/sneeze_cough/028.wav",
+    "text": "Sneeze"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/sneeze_cough/029.wav",
+    "text": "Sneeze"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/sneeze_cough/030.wav",
+    "text": "Sneeze"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/sneeze_cough/031.wav",
+    "text": "Sneeze"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/sneeze_cough/032.wav",
+    "text": "Sneeze"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/sneeze_cough/033.wav",
+    "text": "Sneeze"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/sneeze_cough/034.wav",
+    "text": "Sneeze"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/sneeze_cough/035.wav",
+    "text": "Sneeze"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/sneeze_cough/036.wav",
+    "text": "Sneeze"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/sneeze_cough/037.wav",
+    "text": "Sneeze"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/sneeze_cough/038.wav",
+    "text": "Sneeze"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/sneeze_cough/039.wav",
+    "text": "Sneeze"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/sneeze_cough/040.wav",
+    "text": "Sneeze"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/sneeze_cough/041.wav",
+    "text": "Sneeze"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/sneeze_cough/042.wav",
+    "text": "Sneeze"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/sneeze_cough/043.wav",
+    "text": "Sneeze"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/sneeze_cough/044.wav",
+    "text": "Sneeze"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/sneeze_cough/045.wav",
+    "text": "Sneeze"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/sneeze_cough/046.wav",
+    "text": "Sneeze"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/sneeze_cough/047.wav",
+    "text": "Sneeze"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/sneeze_cough/048.wav",
+    "text": "Sneeze"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/sneeze_cough/049.wav",
+    "text": "Sneeze"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/sneeze_cough/050.wav",
+    "text": "Sneeze"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/sneeze_cough/051.wav",
+    "text": "Sneeze"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/sneeze_cough/052.wav",
+    "text": "Sneeze"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/sneeze_cough/053.wav",
+    "text": "Sneeze"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/sneeze_cough/054.wav",
+    "text": "Sneeze"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/sneeze_cough/055.wav",
+    "text": "Sneeze"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/sneeze_cough/056.wav",
+    "text": "Sneeze"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/sneeze_cough/057.wav",
+    "text": "Sneeze"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/sneeze_cough/058.wav",
+    "text": "Sneeze"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/sneeze_cough/059.wav",
+    "text": "Sneeze"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/sneeze_cough/060.wav",
+    "text": "Sneeze"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/sneeze_cough/061.wav",
+    "text": "Sneeze"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/sneeze_cough/062.wav",
+    "text": "Sneeze"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/sneeze_cough/063.wav",
+    "text": "Sneeze"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/sneeze_cough/064.wav",
+    "text": "Sneeze"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/sneeze_cough/065.wav",
+    "text": "Sneeze"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/sneeze_cough/066.wav",
+    "text": "Sneeze"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/sneeze_cough/067.wav",
+    "text": "Sneeze"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/sneeze_cough/068.wav",
+    "text": "Sneeze"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/sneeze_cough/069.wav",
+    "text": "Sneeze"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/sneeze_cough/070.wav",
+    "text": "Sneeze"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/sneeze_cough/071.wav",
+    "text": "Sneeze"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/sneeze_cough/072.wav",
+    "text": "Sneeze"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/sneeze_cough/073.wav",
+    "text": "Sneeze"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/sneeze_cough/074.wav",
+    "text": "Sneeze"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/sneeze_cough/075.wav",
+    "text": "Sneeze"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/sneeze_cough/076.wav",
+    "text": "Sneeze"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/sneeze_cough/077.wav",
+    "text": "Sneeze"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/sneeze_cough/078.wav",
+    "text": "Sneeze"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/sneeze_cough/079.wav",
+    "text": "Sneeze"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/sneeze_cough/080.wav",
+    "text": "Sneeze"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/sneeze_cough/081.wav",
+    "text": "Sneeze"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/sneeze_cough/082.wav",
+    "text": "Sneeze"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/sneeze_cough/083.wav",
+    "text": "Sneeze"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/sneeze_cough/084.wav",
+    "text": "Sneeze"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/sneeze_cough/085.wav",
+    "text": "Sneeze"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/sneeze_cough/086.wav",
+    "text": "Sneeze"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/sneeze_cough/087.wav",
+    "text": "Sneeze"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/sneeze_cough/088.wav",
+    "text": "Sneeze"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/sneeze_cough/089.wav",
+    "text": "Sneeze"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/sneeze_cough/090.wav",
+    "text": "Sneeze"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/sneeze_cough/091.wav",
+    "text": "Sneeze"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/sneeze_cough/092.wav",
+    "text": "Sneeze"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/sneeze_cough/093.wav",
+    "text": "Sneeze"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/sneeze_cough/094.wav",
+    "text": "Sneeze"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/sneeze_cough/095.wav",
+    "text": "Sneeze"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/sneeze_cough/096.wav",
+    "text": "Sneeze"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/sneeze_cough/097.wav",
+    "text": "Sneeze"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/sneeze_cough/098.wav",
+    "text": "Sneeze"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/sneeze_cough/099.wav",
+    "text": "Sneeze"
+  },
+  {
+    "wav": "/home/mukh1485/dcase_dataset/eval/sneeze_cough/100.wav",
+    "text": "Sneeze"
+  }
+]

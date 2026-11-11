@@ -1,0 +1,303 @@
+# # Where logs/checkpoints go
+# log_directory: "/home/mukh1485/media_project_update2/model_logs"
+
+# id:
+#   version: "v1"
+#   name: "dcase7_finetune_unet_text"
+
+# # DATA CONFIG
+# preprocess_config:
+#   path:
+#     train_data: "/home/mukh1485/media_project_update2/metadata/train_data.json"
+#     test_data:  "/home/mukh1485/media_project_update2/metadata/test_data.json"
+#     class_label_index: "/home/mukh1485/media_project_update2/metadata/class_labels_indices.csv"
+
+#   preprocessing:
+#     audio:
+#       sampling_rate: 22050
+#       segment_size: 88200        # 4 s * 22050 Hz
+#     stft:
+#       filter_length: 1024
+#       hop_length: 256
+#       win_length: 1024
+#     mel:
+#       n_mel_channels: 80
+#       target_length: 344
+#       mel_fmin: 0
+#       mel_fmax: 8000
+#       freqm: 0
+#       timem: 0
+#       blur: false
+
+# train_config:
+#   augmentation:
+#     mixup: 0.0
+
+# # MODEL CONFIG
+# model:
+#   target: latent_diffusion.models.ddpm.LatentDiffusion
+#   # Start from your existing diffusion model, but we only fine-tune UNet
+#   # reload_from_ckpt: /home/mukh1485/media_project/dcase_submit.ckpt
+#   # reload_from_ckpt: /home/mukh1485/media_project_update2/model_logs/dcase7_finetune_unet_text/checkpoints/last-v1.ckpt
+
+#   params:
+#     base_learning_rate: 3.0e-05
+#     batchsize: 8                # adjust to fit GPU memory (try 8 if OOM)
+#     # DDPM schedule
+#     linear_start: 0.0015
+#     linear_end: 0.0195
+#     timesteps: 1000
+#     num_timesteps_cond: 1
+#     log_every_t: 200
+
+#     # Dataloader keys
+#     first_stage_key: fbank
+#     cond_stage_key: text         # we train with TEXT class labels
+
+#     # Latent sizes (must match AE downsampling)
+#     latent_t_size: 86
+#     latent_f_size: 20
+#     channels: 8
+
+#     # Conditioning
+#     cond_stage_trainable: false  # <-- freeze CLAP
+#     conditioning_key: film
+#     has_embed: false
+#     scale_by_std: true
+#     monitor: val/loss_simple_ema
+
+#     # UNet (diffusion backbone)
+#     unet_config:
+#       target: latent_diffusion.modules.diffusionmodules.openaimodel.UNetModel
+#       params:
+#         image_size: 64
+#         extra_film_condition_dim: 512
+#         extra_film_use_concat: true
+#         in_channels: 8
+#         out_channels: 8
+#         model_channels: 128
+#         attention_resolutions: [8, 4, 2]
+#         num_res_blocks: 2
+#         channel_mult: [1, 2, 3, 5]
+#         num_head_channels: 32
+#         use_spatial_transformer: true
+
+#     # First stage (Autoencoder KL)
+#     # Keep the same AE and freeze it (we use it only for mel <-> latent)
+#     first_stage_config:
+#       target: latent_encoder.autoencoder.AutoencoderKL
+#       params:
+#         batchsize: 4
+#         monitor: val/rec_loss
+#         image_key: fbank
+#         subband: 1
+#         embed_dim: 8
+#         time_shuffle: 1
+#         lossconfig:
+#           target: latent_diffusion.modules.losses.LPIPSWithDiscriminator
+#           params:
+#             disc_start: 50000000   # huge -> practically disables the discriminator
+#             kl_weight: 1.0
+#             disc_weight: 0.5
+#             disc_in_channels: 1
+#         ddconfig:
+#           double_z: true
+#           z_channels: 8
+#           resolution: 256
+#           downsample_time: false
+#           in_channels: 1
+#           out_ch: 1
+#           ch: 128
+#           ch_mult: [1, 2, 4]
+#           num_res_blocks: 2
+#           attn_resolutions: []
+#           dropout: 0.0
+
+#     # Conditioning stage (CLAP)
+#     cond_stage_config:
+#       target: latent_diffusion.modules.encoders.modules.CLAPAudioEmbeddingClassifierFreev2
+#       params:
+#         pretrained_path: /home/mukh1485/media_project/clap_submit.ckpt
+#         sampling_rate: 22050
+#         embed_mode: text           # <-- IMPORTANT: use text labels as conditioning
+#         unconditional_prob: 0.1
+
+#     # Evaluation / Sampling
+#     evaluation_params:
+#       unconditional_guidance_scale: 3.0
+#       ddim_sampling_steps: 250
+#       ddim_eta: 0.0
+#       n_candidates_per_samples: 1
+
+
+# Where logs/checkpoints go
+log_directory: "/home/mukh1485/media_project_update2/model_logs"
+
+id:
+  version: "v1"
+  name: "dcase7_finetune_unet_text"   # used by UNet (diffusion) run
+
+
+# DATA CONFIG  (shared)
+
+preprocess_config:
+  path:
+    train_data: "/home/mukh1485/media_project_update2/metadata/train_data.json"
+    test_data:  "/home/mukh1485/media_project_update2/metadata/test_data.json"
+    class_label_index: "/home/mukh1485/media_project_update2/metadata/class_labels_indices.csv"
+
+  preprocessing:
+    audio:
+      sampling_rate: 22050
+      segment_size: 88200        # 4 s * 22050 Hz
+    stft:
+      filter_length: 1024
+      hop_length: 256
+      win_length: 1024
+    mel:
+      n_mel_channels: 80
+      target_length: 344         # (T)
+      mel_fmin: 0
+      mel_fmax: 8000
+      freqm: 0
+      timem: 0
+      blur: false
+
+train_config:
+  augmentation:
+    mixup: 0.0
+
+# (A) AUTOENCODER TRAINING (first stage) — used by train_ae.py
+
+ae:
+  name: "ae_dcase7_v1"
+  batchsize: 8
+  lr: 1.0e-4
+  kl_weight: 1.0e-6
+  lpips_weight: 0.0
+
+first_stage_train_config:
+  target: latent_encoder.autoencoder.AutoencoderKL
+  params:
+    # It takes [B,1,T,M] log-mels (T=344, M=80) and produces latents z with channels=8
+    # Downsampling by 4x along T and M -> latent size ≈ (86, 20)
+    embed_dim: 8
+    time_shuffle: 1
+    subband: 1
+    ddconfig:
+      double_z: true
+      z_channels: 8
+      resolution: 256           # typical placeholder; internal convs handle non-square inputs
+      downsample_time: false
+      in_channels: 1
+      out_ch: 1
+      ch: 128
+      ch_mult: [1, 2, 4]
+      num_res_blocks: 2
+      attn_resolutions: []
+      dropout: 0.0
+    lossconfig:
+      # Kept here for AE training; if you don't want a discriminator, keep disc_start very high.
+      target: latent_diffusion.modules.losses.LPIPSWithDiscriminator
+      params:
+        disc_start: 50000000
+        kl_weight: 1.0
+        disc_weight: 0.5
+        disc_in_channels: 1
+
+
+# (B) DIFFUSION / UNet FINE-TUNE; train_ldm.py
+
+model:
+  target: latent_diffusion.models.ddpm.LatentDiffusion
+  reload_from_ckpt: "/home/mukh1485/media_project_update2/model_logs/dcase7_finetune_unet_text/checkpoints/last-v3.ckpt"
+  params:
+    base_learning_rate: 3.0e-05
+    batchsize: 8
+
+    # DDPM schedule
+    linear_start: 0.0015
+    linear_end: 0.0195
+    timesteps: 1000
+    num_timesteps_cond: 1
+    log_every_t: 200
+
+    # Keys expected by the model
+    first_stage_key: fbank
+    cond_stage_key: text
+
+    # Latent geometry (≈ T/4 x M/4 for T=344, M=80)
+    latent_t_size: 86
+    latent_f_size: 20
+    channels: 8
+
+    # Conditioning
+    cond_stage_trainable: false      # freeze CLAP
+    conditioning_key: film
+    has_embed: false
+    scale_by_std: false
+    scale_factor: 0.182496
+    monitor: val/loss_simple_ema
+
+    # UNet (diffusion backbone)
+
+    unet_config:
+      target: latent_diffusion.modules.diffusionmodules.openaimodel.UNetModel
+      params:
+        image_size: 64                     # kept for compatibility; model handles non-square latents
+        extra_film_condition_dim: 512
+        extra_film_use_concat: true
+        in_channels: 8
+        out_channels: 8
+        model_channels: 128
+        attention_resolutions: [8, 4, 2]
+        num_res_blocks: 2
+        channel_mult: [1, 2, 3, 5]
+        num_head_channels: 32
+        use_spatial_transformer: true
+
+    # First stage (frozen at UNet training time)
+    first_stage_config:
+      target: latent_encoder.autoencoder.AutoencoderKL
+      ckpt_path: "/home/mukh1485/media_project_update2/model_logs/ae_dcase7_v1/checkpoints/last.ckpt"
+      params:
+        # Same architecture as trained above
+        embed_dim: 8
+        time_shuffle: 1
+        subband: 1
+        ddconfig:
+          double_z: true
+          z_channels: 8
+          resolution: 256
+          downsample_time: false
+          in_channels: 1
+          out_ch: 1
+          ch: 128
+          ch_mult: [1, 2, 4]
+          num_res_blocks: 2
+          attn_resolutions: []
+          dropout: 0.0
+          
+        lossconfig:
+          target: latent_diffusion.modules.losses.LPIPSWithDiscriminator
+          params:
+            disc_start: 50000000   # basically disabled
+            kl_weight: 1.0
+            disc_weight: 0.5
+            disc_in_channels: 1
+
+    # Conditioning stage (CLAP) — frozen
+    cond_stage_config:
+      target: latent_diffusion.modules.encoders.modules.CLAPAudioEmbeddingClassifierFreev2
+      params:
+        pretrained_path: /home/mukh1485/media_project/clap_submit.ckpt
+        sampling_rate: 22050
+        embed_mode: text
+        unconditional_prob: 0.1
+
+    # Evaluation / Sampling
+    evaluation_params:
+      unconditional_guidance_scale: 3.0
+      ddim_sampling_steps: 250
+      ddim_eta: 0.0
+      n_candidates_per_samples: 1

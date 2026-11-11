@@ -1,0 +1,131 @@
+# Where logs/checkpoints go
+log_directory: "/home/mukh1485/media_project_update2/model_logs"
+
+id:
+  version: "v1"
+  name: "5-3_new_prompt2"
+
+# DATA CONFIG
+preprocess_config:
+  path:
+    train_data: "/home/mukh1485/media_project_update2/metadata/train_data.json"
+    test_data:  "/home/mukh1485/media_project_update2/metadata/test_data.json"
+    # Make sure this actually points to your CSV (or adjust to the correct file/folder)
+    class_label_index: "/home/mukh1485/media_project_update2/metadata/class_labels_indices.csv"
+
+  preprocessing:
+    audio:
+      sampling_rate: 22050
+      segment_size: 88200     # 4 s * 22050 Hz
+    stft:
+      filter_length: 1024
+      hop_length: 256         # <-- changed from 512 to 256 so 4 s ≈ 344 frames
+      win_length: 1024
+    mel:
+      n_mel_channels: 80
+      target_length: 344      # ~ 4s / hop_length(256)
+      mel_fmin: 0
+      mel_fmax: 8000
+      freqm: 0
+      timem: 0
+      blur: false
+
+train_config:
+  augmentation:
+    mixup: 0.0
+
+# MODEL CONFIG 
+model:
+  target: latent_diffusion.models.ddpm.LatentDiffusion
+  reload_from_ckpt: /home/mukh1485/media_project/dcase_submit.ckpt
+  params:
+    base_learning_rate: 3.0e-05
+    batchsize: 8
+
+    # DDPM schedule
+    linear_start: 0.0015
+    linear_end: 0.0195
+    timesteps: 1000
+    num_timesteps_cond: 1
+    log_every_t: 200
+
+    # Keys used by the dataloader
+    first_stage_key: fbank         # input features (log-mel)
+    cond_stage_key: text           # conditioning comes from text/CLAP
+
+    # Latent sizes (must match AE downsampling)
+    latent_t_size: 86              # 344 / 4
+    latent_f_size: 20
+    channels: 8                    # latent z channels
+
+    # Conditioning
+    cond_stage_trainable: true     # <-- train CLAP conditioner inside this run (no external ckpt)
+    conditioning_key: film         # FiLM conditioning
+    has_embed: false
+    scale_by_std: true
+    monitor: val/loss_simple_ema
+
+    # UNet config (diffusion backbone)
+    unet_config:
+      target: latent_diffusion.modules.diffusionmodules.openaimodel.UNetModel
+      params:
+        image_size: 64             # ignored by 1D/2D spectrogram pipelines; kept for API
+        extra_film_condition_dim: 512
+        extra_film_use_concat: true
+        in_channels: 8
+        out_channels: 8
+        model_channels: 128
+        attention_resolutions: [8, 4, 2]
+        num_res_blocks: 2
+        channel_mult: [1, 2, 3, 5]
+        num_head_channels: 32
+        use_spatial_transformer: true
+
+    # First stage (Autoencoder KL)
+    first_stage_config:
+      base_learning_rate: 4.5e-05
+      target: latent_encoder.autoencoder.AutoencoderKL
+      params:
+        batchsize: 4
+        monitor: val/rec_loss
+        image_key: fbank
+        subband: 1
+        embed_dim: 8
+        time_shuffle: 1
+        lossconfig:
+          target: latent_diffusion.modules.losses.LPIPSWithDiscriminator
+          params:
+            disc_start: 50001
+            kl_weight: 1.0
+            disc_weight: 0.5
+            disc_in_channels: 1
+        ddconfig:
+          double_z: true
+          z_channels: 8
+          resolution: 256
+          downsample_time: false
+          in_channels: 1
+          out_ch: 1
+          ch: 128
+          ch_mult: [1, 2, 4]
+          num_res_blocks: 2
+          attn_resolutions: []
+          dropout: 0.0
+
+    # Conditioning stage (CLAP)
+    cond_stage_config:
+      target: latent_diffusion.modules.encoders.modules.CLAPAudioEmbeddingClassifierFreev2
+      params:
+        # No pretrained checkpoint available; train from scratch within this run:
+        # If/when you have a trained CLAP checkpoint, add:
+        pretrained_path: /home/mukh1485/media_project/clap_submit.ckpt
+        sampling_rate: 22050
+        embed_mode: audio
+        unconditional_prob: 0.1
+
+    # ===== Evaluation / Sampling =====
+    evaluation_params:
+      unconditional_guidance_scale: 1.6   # was 2.0
+      ddim_sampling_steps: 250            # was 200
+      ddim_eta: 0.0
+      n_candidates_per_samples: 3
