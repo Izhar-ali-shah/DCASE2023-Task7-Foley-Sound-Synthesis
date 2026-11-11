@@ -1,0 +1,103 @@
+# configuration for the DCASE-style machine-sound pipeline.
+# Used by:
+#   - train_autoencoder_machines.py
+#   - train_diffusion_with_film.py
+#   - generate.py
+
+paths:
+  # Root folder where prepare_data_machines.py wrote train_metadata.json / val_metadata.json
+  data_root: data/processed_machines
+
+  # Optional: local CLAP (if no internet GPU) checkpoint and HiFi-GAN vocoder directory (for generation)
+  # If you leave these empty, the generator will fall back to its defaults:
+  #   clap_ckpt: ./clap_ckpt/630k-audioset-best.pt
+  #   hifigan_dir: ./hifi-gan
+  # clap_ckpt: clap_ckpt/630k-audioset-best.pt
+  hifigan_dir: hifi-gan
+
+autoencoder:
+  # Where autoencoder checkpoints will be stored
+  output_dir: training_workspace/checkpoints/autoencoder_machines
+
+  # Architecture
+  embed_dim: 8
+  ch: 128
+  ch_mult: [1, 2, 4]
+  num_res_blocks: 2
+  attn_resolutions: []
+  dropout: 0.0
+  mel_bands: 80
+  resolution: 344          # time dimension
+  z_channels: 8
+
+  # Training
+  learning_rate: 4.5e-6
+  kl_weight: 5.0e-7        
+  epochs: 30
+  batch_size: 8
+  num_workers: 4
+
+# diffusion -
+
+diffusion:
+  # Where diffusion checkpoints will be stored
+  output_dir: training_workspace/checkpoints/diffusion_machines_film
+
+  # UNet / diffusion
+  num_res_blocks: 2
+  dropout: 0.1
+  num_timesteps: 1000
+
+  # Training
+  lr: 1.0e-5
+  epochs: 50
+  batch_size: 8
+  num_workers: 4
+  cfg_uncond_prob: 0.1
+
+  # No. of training examples to use when computing reference latent statistics
+  stats_sample_size: 500
+  # the code uses: autoencoder.output_dir + "/autoencoder_best.ckpt"
+  # vae_path: training_workspace/checkpoints/autoencoder_machines/autoencoder_best.ckpt
+
+generation:
+  device: cuda
+
+  # the code uses: diffusion.output_dir + "/diffusion_film_best.ckpt"
+  # diffusion_ckpt: training_workspace/checkpoints/diffusion_machines_film/diffusion_film_best.ckpt
+
+  # Prompts (class names / text descriptions) used for CLAP conditioning.
+
+  prompts:
+    - "fan machine sound"
+    - "pump machine sound"
+    - "slider machine sound"
+    - "toy car sound"
+    - "toy conveyor sound"
+    - "valve machine sound"
+
+  # prompts:
+  #   - "electric fan motor with continuous rotating blades"
+  #   - "industrial pump with fluid flow and mechanical vibration"
+  #   - "mechanical slider with repetitive linear motion"
+  #   - "toy car with electric motor and rolling wheels"
+  #   - "toy conveyor belt with motor and moving parts"
+  #   - "valve opening and closing with periodic mechanical clicks"
+
+  # files per class to generate
+  num_per_class: 5
+
+  # Generation batch size 
+  batch_size: 16
+
+  # DDIM sampling parameters
+  ddim_steps: 50
+  eta: 0.0
+  cfg_scale: 3.0
+
+  # generated data
+  wav_root: generated_wav
+  mel_root: generated_mels
+
+  # Sample rate
+  sample_rate: 22050
